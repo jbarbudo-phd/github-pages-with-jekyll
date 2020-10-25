@@ -1,10 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: All about Nursing Informatics
+author: Jose P. Barbudo III, RN, MAN, ITIL, CPHIMS
+email: jose.barbudo.phd@outlook.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site aims to provide the most comprehensive content for Nursing Informatics.
+Content includes history, evolution, definition, competencies & certification.
+Contributors are definitely welcome to pull request and will be acknowledged.
+Endorsement for external links are also considered for additional resources and reference.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
